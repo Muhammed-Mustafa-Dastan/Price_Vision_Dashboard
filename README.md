@@ -31,6 +31,7 @@
 ### Dashboard 📊
 
 ![dashboard](https://github.com/user-attachments/assets/5b58ba9a-70d4-4404-abd9-d40138030f2f)
+![İsimsiz video](https://github.com/user-attachments/assets/991d5b86-00d2-4e23-b110-0db5a30c2fea)
 
 
 The dashboard provides a high-level overview of monthly and yearly performance metrics. It includes:
