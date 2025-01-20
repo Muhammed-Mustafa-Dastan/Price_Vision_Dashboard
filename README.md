@@ -102,7 +102,9 @@ All calculations and summary tables are consolidated here. This page provides us
 - Update prices using the "Mosquito Net Prices" or "Shower Cabin Prices" pages.
 
 - Analyze your performance using charts and pivot tables.
-  
+
+   ![VBA_code](https://github.com/user-attachments/assets/59062e4f-a1c7-4fac-810d-7e1463686e59)
+
 -------
 ### Summary 📝  
 The Price Vision Dashboard is a powerful Excel-based tool designed to streamline sales and pricing data management for small businesses and individuals. Its user-friendly design allows for easy tracking of performance metrics, dynamic pricing, and detailed analysis through pivot tables and charts. Whether you're looking to analyze trends, manage your pricing strategy, or evaluate your profits, this tool provides a comprehensive solution tailored to your needs. Expandable features and customizable sections ensure the dashboard can adapt to future requirements, making it an essential resource for efficient financial management. 🌟
